@@ -17,7 +17,7 @@ flutter pub get
 
 ## Screenshots
 
-![Screenshot](./screenshots/1.png)
+<img src="./screenshots/1.png" width=250 height=670>
 
 ## Credits
 
