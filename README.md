@@ -6,6 +6,7 @@ This app showcases how to use Material UI components like Text, Icon, Image & Li
 
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+- [Credits](#credits)
 
 ## Installation
 
