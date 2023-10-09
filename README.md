@@ -17,7 +17,9 @@ flutter pub get
 
 ## Screenshots
 
-<img src="./screenshots/1.png" width=250 height=670>
+<p align="center">
+  <img src="./screenshots/1.png" width=250 height=670>
+</p>
 
 ## Credits
 
