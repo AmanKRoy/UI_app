@@ -107,13 +107,13 @@ Column _buildButtonColumn(Color color, IconData icon, String label) {
 Widget textSection = Container(
   padding: const EdgeInsets.all(32),
   child: const Text(
-    "This is just a very reduimentary UI application with little to no  "
-    "features in it, but i would soon be adding some functionality to it.\n\n"
+    "This is just a rudimentary UI application with little to no  "
+    "features in it, but i would soon be adding some functionality.\n\n"
     "For example, would be changing the call, route  & share stateless "
-    "widgets so statefull widgets. Would also do some basic changes to the UI "
+    "widgets to statefull widgets. Would also do some basic changes to the UI "
     "itself, like rather than just plan boxfit i would give the image and "
     "text feild a tile look so it can pop out.",
-    style: TextStyle(fontSize: 16, fontWeight: FontWeight.w400),
+    style: TextStyle(fontSize: 16, fontWeight: FontWeight.w400),  
     softWrap: true,
   ),
 );
